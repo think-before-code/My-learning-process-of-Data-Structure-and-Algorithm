@@ -5,4 +5,4 @@ Note: This is not a project development, just a personal study record
 
 Although I'm new to algorithms, I'd like to share some of my own insights along the way, in the hope that it will help beginners like me and maybe even more experienced programmers learn something new
 
-//虽然我是算法新手，但我会在此分享一些个人学习过程中的心得体会，希望能帮到和我一样刚的新手入门或许也能让经验丰富的程序员有新的领悟。
+//虽然我是算法新手，但我会在此分享一些个人学习过程中的心得体会，希望能帮到新手入门或许也能让经验丰富的程序员有新的领悟。
